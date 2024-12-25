@@ -1,0 +1,1 @@
+This repository contains examples of buffer overflow vulnerabilities in C++ using std::vector.  The `bug.cpp` file demonstrates the error, while `bugSolution.cpp` shows how to avoid it using safe indexing or at() method.
